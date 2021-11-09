@@ -10,7 +10,7 @@ node {
 }
 //declare an hello world task
 task hello (){
-  println "hello world fam fam !"
+  println "hello world fam!"
 }
 //declare a build task
 task build
